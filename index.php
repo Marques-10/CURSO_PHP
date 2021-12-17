@@ -20,6 +20,11 @@
                     <h3>4. Controle</h3>
                     <ul>
                         <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_pi">
+                                Desafio PI
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=controle&file=if_else">
                                 If Else
                             </a>
