@@ -1,0 +1,10 @@
+O método intdiv para...
+- Lançar uma exceção quando tentar dividir por zero
+- Lançar uma exceção quando o resultado não for inteiro
+- dividir normalmente nos demais casos
+
+Os testes...
+- intdiv com os parametros 8 e 2 [Sucesso]
+- intdiv com os parametros 8 e 3 [Exceção]
+- intdiv com os parametros 8 e 0 [Exceção]
+- intdiv "original" com os parametros 8 e 3 [Sucesso]
